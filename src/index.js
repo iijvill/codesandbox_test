@@ -43,3 +43,12 @@
 // val5[0] = "gergherhge";
 // val5.push("afefswef");
 // console.log(val5);
+
+//アロー関数
+
+// 従来
+function func1(str) {
+  return str;
+}
+
+console.log(func1("a"));
